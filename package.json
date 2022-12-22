@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
-    "jsonwebtoken": "^8.3.0",
+    "jsonwebtoken": "^9.0.0",
     "restify-jwt-community": "^1.0.8",
     "mongoose": "^5.5.15",
     "mongoose-timestamp": "^0.6.0",
